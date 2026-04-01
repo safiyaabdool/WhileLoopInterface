@@ -1,2 +1,2 @@
 # WhileLoopInterface
-This is my While Loop Interface 
+This is a While Loop Interface which uses increment, it takes a number from the user.
